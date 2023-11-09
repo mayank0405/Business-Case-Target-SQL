@@ -18,7 +18,7 @@ It would be insightful to know about...
 
 ## Datasets Used 
 
-Unfortunately, since this is a Confidential project, I cannot share the dataset of this project. I can only share the names of the csv files used in this project. They are as following:- 
+Unfortunately, since this is a confidential project, I cannot share the dataset of this project. I can only share the names of the csv files used in this project. They are as following:- 
 
 - customers.csv
 - sellers.csv
